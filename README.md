@@ -25,3 +25,15 @@ Thoughts: To store the word embeddings, we need a V*D matrix, V = vocabulary siz
 - data : contain string of text we read, string words are replaced with word IDs
 - use UNK to represent unkown words that are not commonly used
 Link to work: https://github.com/constantinembufung/Word-Embeddings
+
+## Day 2, 3, 4, 5: July 13 - 16, 2018
+Task: Learn Deep Learning with Keras
+Today's Progress:  using keras to build a CNN for handwritten digits .
+
+Thoughts: Understand backpropagation
+- Build a CNN using the cifar10 datasets with 76.55% accuracy
+- Learn how to do Data Augmentation when you have small training data
+- Learn how to make your netword deep by adding more hidden layers, dropouts and using more CNN
+- our model was like this Conv+Conv+maxpool+dropout+conv+conv+maxpool
+Link to work: https://github.com/constantinembufung/Word-Embeddings
+
