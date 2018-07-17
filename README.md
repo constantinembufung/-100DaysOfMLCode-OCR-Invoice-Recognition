@@ -35,5 +35,5 @@ Thoughts: Understand backpropagation
 - Learn how to do Data Augmentation when you have small training data
 - Learn how to make your netword deep by adding more hidden layers, dropouts and using more CNN
 - our model was like this Conv+Conv+maxpool+dropout+conv+conv+maxpool
-Link to work: https://github.com/constantinembufung/Word-Embeddings
+Link to work: https://github.com/constantinembufung/deep_learning_with_keras
 
