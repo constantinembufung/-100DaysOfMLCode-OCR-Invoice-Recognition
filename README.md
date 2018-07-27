@@ -43,3 +43,10 @@ Followed by a standard dense+dropout+dense. All the activation functions are ReL
 - Improving the CIFAR-10 performance with data augmentation
 Thoughts: How to do data augmentation, doing predictions with real images, saving model as json
 links: https://github.com/constantinembufung/deep_learning_with_keras
+
+
+## Day 8, : July 18, 2018
+Tasks :  - Image Classification using keras
+- trains a neural network model to classify images of clothing, like sneakers and shirts
+- I attend 93% in training but 88% in testing model. 
+link: https://github.com/constantinembufung/deep_learning_with_keras/blob/master/Keras%20Basic%20image%20classifier%20-%20fashion%20.ipynb
