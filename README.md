@@ -50,3 +50,10 @@ Tasks :  - Image Classification using keras
 - trains a neural network model to classify images of clothing, like sneakers and shirts
 - I attend 93% in training but 88% in testing model. 
 link: https://github.com/constantinembufung/deep_learning_with_keras/blob/master/Keras%20Basic%20image%20classifier%20-%20fashion%20.ipynb
+
+
+## Day 9, : July 19, 2018
+Tasks :  - Movies reviews using keras
+- trains a neural network model to review movies as positive or negative
+- I attend 93% in training but 87% in validation and testing model. 
+link: https://github.com/constantinembufung/deep_learning_with_keras/blob/master/Keras%20Basic%20image%20classifier%20-%20fashion%20.ipynb
