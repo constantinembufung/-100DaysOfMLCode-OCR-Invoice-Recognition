@@ -56,4 +56,4 @@ link: https://github.com/constantinembufung/deep_learning_with_keras/blob/master
 Tasks :  - Movies reviews using keras
 - trains a neural network model to review movies as positive or negative
 - I attend 93% in training but 87% in validation and testing model. 
-link: https://github.com/constantinembufung/deep_learning_with_keras/blob/master/Keras%20Basic%20image%20classifier%20-%20fashion%20.ipynb
+link: https://github.com/constantinembufung/deep_learning_with_keras/blob/master/Movie%20reviews%20using%20keras.ipynb
