@@ -57,3 +57,8 @@ Tasks :  - Movies reviews using keras
 - trains a neural network model to review movies as positive or negative
 - I attend 93% in training but 87% in validation and testing model. 
 link: https://github.com/constantinembufung/deep_learning_with_keras/blob/master/Movie%20reviews%20using%20keras.ipynb
+
+## Day 10 : August 03, 2018 
+Task: Test Generation using LSTM 
+Learn: Today i learn how LSTM works and also learn word embedding 
+Next task: Image captioning uusing LSTM link: @sirajraval
