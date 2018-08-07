@@ -62,3 +62,7 @@ link: https://github.com/constantinembufung/deep_learning_with_keras/blob/master
 Task: Test Generation using LSTM 
 Learn: Today i learn how LSTM works and also learn word embedding 
 Next task: Image captioning uusing LSTM link: @sirajraval
+
+## Day 11: August 06, 2018 @100DaysOfMLCode
+Day 11: learn Neural Machine Translation, understanding the maths behind LSTM in MT , study the BLEU score - evaluating the machine translation system. Encoder-Decoder architecture. 
+Next Task: Build a seq2seq model for NMT from French-English using LSTM  
