@@ -65,4 +65,14 @@ Next task: Image captioning uusing LSTM link: @sirajraval
 
 ## Day 11: August 06, 2018 @100DaysOfMLCode
 Day 11: learn Neural Machine Translation, understanding the maths behind LSTM in MT , study the BLEU score - evaluating the machine translation system. Encoder-Decoder architecture. 
-Next Task: Build a seq2seq model for NMT from French-English using LSTM  
+Next Task: Build a seq2seq model for NMT from German-English using LSTM  
+
+
+## Day 12: August 12, 2018 @100DaysOfMLCode
+Day 11: learn Neural Machine Translation, understanding the maths behind LSTM in MT , study the BLEU score - evaluating the machine translation system. Encoder-Decoder architecture. 
+Next Task: Build a seq2seq model for NMT from German-English using LSTM  
+
+
+## Day 13: August 13, 2018 @100DaysOfMLCode
+Day 11: Build Basic Neural Machine Translation from German to english  
+Next Task: improve the model by using Attentio
